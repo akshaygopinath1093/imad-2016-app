@@ -31,7 +31,7 @@ var articles={
         Hello everyone this is my 2nd article. Hello everyone this is my second article. Bingooo...!
       </p>
       <p>
-        Hello everyone this is my 2nd article. Hello everyone this is my second article. Bingooo...!
+        Hello everyone this is my 2nd article. Hello everyone this is my second article. Bingooo.!
       </p>
    `  
     },
